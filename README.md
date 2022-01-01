@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamlo988
-- 👀 I’m interested in ...Java Full Stacj
+- 👀 I’m interested in ...Java Full Stack
 - 🌱 I’m currently learning ...Advance Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shubhamlokhande988@gmail.com
